@@ -15,3 +15,5 @@ git log -> trás o log do histórico geral de comit
 7. GIT COMMIT -M "MENSAGEM"
 8. GIT STATUS
 9. VOLTAR PARA PASSO 3
+
+É ISSO, ADEUS
