@@ -3,3 +3,15 @@ git status -> mostra o status do trabalho
 git add -> adiciona arquivo pra ser comitado
 git commmit -m "comentario" -> faz commit do que estava pra ser comitado
 git log -> trás o log do histórico geral de comit
+
+#FLUXO
+
+1. CRIAR DIRETORIO
+2. INICIAR GIT NO DIRETORIO GIT INIT .
+3. EDITA OU CRIA ARQUIVOS/PROJETOS
+4. GIT STATUS
+5. GIT ADD <NOME ARQUIVO>
+6. GIT STATUS
+7. GIT COMMIT -M "MENSAGEM"
+8. GIT STATUS
+9. VOLTAR PARA PASSO 3
