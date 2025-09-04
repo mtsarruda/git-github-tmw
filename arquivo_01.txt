@@ -8,3 +8,5 @@ rm -rf -> remove de forma recursiva e forçadas todos os diretórios !CUIDADO!
 fodasi
 
 elisinha linda
+brabo muito brabo
+
