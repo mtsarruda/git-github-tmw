@@ -9,3 +9,7 @@ Aprendemos neste dia mt coisa sobre git, desde como criar um repo local até mer
 Confira tudo no youtube do teomewhy
 
 Curso brabo dms!!
+
+Se liga no site do teo me why:
+
+[teomewhy.org](https://teomewhy.org/schedule)
